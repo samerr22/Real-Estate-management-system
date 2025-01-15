@@ -37,7 +37,7 @@ export default function Contact({ listing }) {
             rows="2"
             value={message}
             onChange={onChang}
-            placeholder="Enter your message here..."
+            placeholer="Enter your message here..."
             className="w-full border p-3 rounded-lg"
           ></textarea>
 
