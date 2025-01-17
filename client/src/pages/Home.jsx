@@ -63,7 +63,7 @@ export default function Home() {
           pace with ease
         </h1>
         <div className="text-gray-400 text-xs sm:text-sm">
-         Sam Estate is the best place to find your next perfect place to
+         Sam Estate is the best place to find your next perfect place 
           live.
           <br />
           We have a wide range of properties for you to choose from.
