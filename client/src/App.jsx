@@ -9,7 +9,7 @@ import Header from './componnts/Header'
 import PrivateRoute from './componnts/PrivateRoute'
 import CreateListing from './pages/CreateListing'
 import UpdateListing from './pages/updateListing';
-import Listing from './pages/Listing'
+import Listing from '
 import Search from './pages/Search'
 
 export default function App() {
