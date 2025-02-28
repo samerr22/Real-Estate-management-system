@@ -22,7 +22,7 @@ export default function App() {
       <Route path="/sign-up" element={<SignOut/>}/>
       <Route path="/about" element={<About/>}/>
       <Route path="/search" element={<Search/>}/>
-      <Route path="/listing/:listingId" element={<Listing/>}/>
+      
 
 
       <Route  element={<PrivateRoute/>}>
