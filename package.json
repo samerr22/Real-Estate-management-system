@@ -1,7 +1,6 @@
 {
   "name": "mern-state",
- 
-  "description": "",
+
   "main": "index.js",
   "type": "module",
   "scripts": {
