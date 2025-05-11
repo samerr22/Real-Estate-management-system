@@ -1,12 +1,7 @@
 
 import About from './pages/Ab
 import Profil from './pages/Profile'
-import Header from './componnts/Header'
-import PrivateRoute from './componnts/PrivateRoute'
-import CreateListing from './pages/CreateListing'
-import UpdateListing from './pages/updateListing';
-import Listing from '
-import Search from './pages/Search'
+
 
 export default function App() {
   return (
